@@ -38,4 +38,3 @@ Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, de
 
 * **Git ignore es un archivo.gitignore que permite escribir las extenciones de los archivos que no deseo en el repositorio, por ejemplo los .class de mi proyecto**
 
-D:\matis\Escritorio\Lab 2\Patterns>mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App" -Dexec.args="Julian"
