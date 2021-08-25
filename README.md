@@ -14,6 +14,7 @@ Realice el cambio en la clase App.java para crear un saludo personalizado, basad
 Buscar cómo enviar parámetros al plugin "exec".
 * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
 * Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+* **mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App" -Dexec.args="Julian"**
 * Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 **Sigue imprimiendo hello world!**
 * Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
